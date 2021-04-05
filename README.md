@@ -1,3 +1,3 @@
 # ColorSwitch
 
-Made a replica of the game color switch using javafx. 
+Implemented a replica of the game color switch making use of javafx.  
